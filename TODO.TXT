@@ -1,2 +1,2 @@
-- Testimonials
-
+- add email icon to footer
+- add Testimonials maybe?
