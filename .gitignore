@@ -1,2 +1,7 @@
-TODO.TXT
 tailwind.config.js
+mailExample.php
+composer.json
+composer.lock
+db.php
+vendor/
+actions/

@@ -12,6 +12,43 @@ $(document).ready(() => {
     let d = Math.floor(diff / (1000 * 60 * 60 * 24 * 365.25));
     $(".age").text(d);
 
+    $(".contactForm").submit(function(e) {
+      e.preventDefault();
+
+      let name = $("#name");
+      let email = $("#email");
+      let subject = $("#subject");
+      let message = $("#message");
+
+      if (name.val() == '' || !name.val()) {
+        alert("Name is required.");
+      } else if (email.val() == '' || !email.val()) {
+        alert("Email is required.");
+      } else if (subject.val() == '' || !subject.val()) {
+        alert("Subject is required.");
+      } else if (message.val() == '' || !message.val()) {
+        alert("Message is required.");
+      } 
+
+      $.post("actions/contact.php", {
+        name: name.val(),
+        email: email.val(),
+        message: message.val(),
+        subject: subject.val()
+      }, data => {
+        data = JSON.parse(data)
+
+        if (data.success) {
+          name.val('')
+          email.val('')
+          subject.val('')
+          message.val('')
+        } else {
+          alert("Unable to send email.")
+        }
+      })
+    });
+
     $(".goTop").click(function(e) {
       e.preventDefault();
 
