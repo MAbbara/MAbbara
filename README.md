@@ -12,6 +12,7 @@ I've been learning to code for 5 years. I love building web apps. I started with
 * 🧠  I'm learning react
 * 🤝  I'm open to collaborating on interesting projects
 
+
 ### Skills
 
 <p align="left">
