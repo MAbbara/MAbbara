@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Abbara
 =======================================================================================================================================
 
-Software Engineer & Full Stack Web Developer.
+Software Engineer & Full Stack Web Developer
 --------------------------------------------
 
 I've been learning to code for 5 years. I love building web apps. I started with Python, but have really found a passion for web development and I enjoy backend development.
