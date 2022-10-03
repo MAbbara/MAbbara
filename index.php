@@ -16,8 +16,8 @@
   <meta name="description" content="I love building web apps. I'm a full stack web developer with a passion for back end development and problem solving. I'm currently working on a few projects including this portfolio. I'm a huge fan of PHP and MySQL."/>
   <meta name="subject" content="Portfolio">
   <meta name="language" content="EN">
-  <meta name="author" content="Mohammad Abbara, mohammad@abbara.dev">
-  <meta name="reply-to" content="mohammad@abbara.dev">
+  <meta name="author" content="Mohammad Abbara, me@abbara.dev">
+  <meta name="reply-to" content="me@abbara.dev">
   <meta name="url" content="http://abbara.dev">
   <meta name="identifier-URL" content="http://abbara.dev">
   <meta name="distribution" content="Global">
@@ -30,7 +30,7 @@
   <meta name="og:site_name" content="Mohammad Abbara"/>
   <meta name="og:description" content="I love building web apps. I'm a full stack web developer with a passion for back end development and problem solving. I'm currently working on a few projects including this portfolio. I'm a huge fan of PHP and MySQL."/>
 
-  <meta name="og:email" content="mohammad@abbara.dev"/>
+  <meta name="og:email" content="me@abbara.dev"/>
 
   <meta name="og:country-name" content="KSA"/>
   
@@ -138,7 +138,7 @@
                       <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
                     </svg>
                     &nbsp;
-                    <p class="text-sm font-bold">Email: <span class="font-normal">mohammad@abbara.dev</span></p>
+                    <p class="text-sm font-bold">Email: <span class="font-normal">me@abbara.dev</span></p>
                   </div>
       
                   <div class="flex mt-3 sm:mt-0">
@@ -345,7 +345,7 @@
                     <svg class="flex-shrink-0 h-6 w-6 text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                       <path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                     </svg>
-                    <span class="ml-3 text-gray-500 dark:text-gray-300"> mohammad@abbara.dev </span>
+                    <span class="ml-3 text-gray-500 dark:text-gray-300"> me@abbara.dev </span>
                   </div>
                   <div class="flex mt-3">
                     <svg class="flex-shrink-0 h-6 w-6 text-gray-400" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 7C9.23858 7 7 9.23858 7 12C7 14.7614 9.23858 17 12 17C14.7614 17 17 14.7614 17 12C17 9.23858 14.7614 7 12 7ZM9 12C9 13.6569 10.3431 15 12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12Z" fill="currentColor"/><path d="M18 5C17.4477 5 17 5.44772 17 6C17 6.55228 17.4477 7 18 7C18.5523 7 19 6.55228 19 6C19 5.44772 18.5523 5 18 5Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M5 1C2.79086 1 1 2.79086 1 5V19C1 21.2091 2.79086 23 5 23H19C21.2091 23 23 21.2091 23 19V5C23 2.79086 21.2091 1 19 1H5ZM19 3H5C3.89543 3 3 3.89543 3 5V19C3 20.1046 3.89543 21 5 21H19C20.1046 21 21 20.1046 21 19V5C21 3.89543 20.1046 3 19 3Z" fill="currentColor"/></svg>
@@ -427,7 +427,7 @@
     <footer class="bg-white dark:bg-gray-900 mt-8">
       <div class="max-w-7xl mx-auto sm:py-6 py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
         <div class="flex justify-center space-x-6 md:order-2">
-          <a href="mailto:mohammad@abbara.dev" target="_blank" class="text-gray-400 hover:text-gray-500">
+          <a href="mailto:me@abbara.dev" target="_blank" class="text-gray-400 hover:text-gray-500">
             <span class="sr-only">Email</span>
             <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
