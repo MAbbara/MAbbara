@@ -6,3 +6,4 @@ db.php
 vendor/
 actions/
 errors.log
+gasPriceApi/
