@@ -5,3 +5,4 @@ composer.lock
 db.php
 vendor/
 actions/
+errors.log

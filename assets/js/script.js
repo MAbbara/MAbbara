@@ -19,6 +19,18 @@ $(document).ready(() => {
       let email = $("#email");
       let subject = $("#subject");
       let message = $("#message");
+      let captcha = $("#captcha");
+      let key = $("#key");
+      let captchaImage = $("#captchaImage");
+      let button = $("#submitForm");
+
+      let error = "text-red-500"
+      let success = "text-emerald-500"
+      let response = $("#response")
+
+      response.removeClass(success);
+      response.removeClass(error);
+      response.removeClass("hidden");
 
       if (name.val() == '' || !name.val()) {
         alert("Name is required.");
@@ -28,24 +40,51 @@ $(document).ready(() => {
         alert("Subject is required.");
       } else if (message.val() == '' || !message.val()) {
         alert("Message is required.");
-      } 
+      } else if (captcha.val() == '' || !captcha.val()) {
+        alert("Captcha is required.");
+      }
 
+      button.attr("disabled", "")
+      
       $.post("actions/contact.php", {
         name: name.val(),
         email: email.val(),
         message: message.val(),
-        subject: subject.val()
+        subject: subject.val(),
+        captcha: captcha.val(),
+        key: key.val()
       }, data => {
+        console.log(data)
         data = JSON.parse(data)
+        button.removeAttr("disabled");
+
 
         if (data.success) {
           name.val('')
           email.val('')
           subject.val('')
           message.val('')
+          captcha.val('')
+          key.val('')
+
+          response.text("Mail sent successfully");
+          response.addClass(success);
+
         } else {
-          alert("Unable to send email.")
+          response.text(data.message)
+          response.addClass(error);
         }
+
+        $.post("actions/captchaCreate.php", 
+          data => {
+
+            data = JSON.parse(data);
+
+            captchaImage.attr("src", `data:image/png;base64,${data.image}`)
+            key.val(data.key);
+          })
+
+
       })
     });
 
