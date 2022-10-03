@@ -18,13 +18,13 @@
   <meta name="language" content="EN">
   <meta name="author" content="Mohammad Abbara, me@abbara.dev">
   <meta name="reply-to" content="me@abbara.dev">
-  <meta name="url" content="http://abbara.dev">
+  <meta name="url" content="https://abbara.dev">
   <meta name="identifier-URL" content="http://abbara.dev">
   <meta name="distribution" content="Global">
 
   <!-- OpenGraoh Tags -->
   <meta name="og:title" content="Mohammad Abbara"/>
-  <meta name="og:url" content="http://abbara.dev"/>
+  <meta name="og:url" content="https://abbara.dev"/>
   <meta name="og:type" content="website"/>
   <meta name="og:image" content="https://abbara.dev/assets/img/profile-circle.png"/>
   <meta name="og:site_name" content="Mohammad Abbara"/>

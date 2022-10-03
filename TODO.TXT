@@ -1,3 +1,0 @@
-- add email icon to footer
-- add captcha to contact form
-- add Testimonials maybe?
