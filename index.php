@@ -268,10 +268,10 @@
                   </div>
                 </div>
 
-                <div class=" bg-emerald-100 rounded-2xl mt-3 2xl:mt-0 px-10 py-5 dark:bg-gray-900  border-emerald-200 dark:border-emerald-400 border">
+                <!-- <div class=" bg-emerald-100 rounded-2xl mt-3 2xl:mt-0 px-10 py-5 dark:bg-gray-900  border-emerald-200 dark:border-emerald-400 border">
                   <div class="p-2 pl-0">
                     <h1 class="text-black dark:text-gray-50 font-medium text-xl">Sultans</h1>
-                    <p class="text-gray-500 dark:text-gray-400 text-sm">This project was created to help game users of Sultans by giving them tips and help</p>
+                    <p class="text-gray-500 dark:text-gray-400 text-sm">This project was created to help game users of Sultans by giving them tips and help.</p>
                   </div>
                   <div class="flex">
                     <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
@@ -281,7 +281,7 @@
                   <div class="block sm:flex mt-3">
                     <a href="https://sultans.ga" target="_blank" class="items-center inline-flex w-48 text-center sm:w-fit mb-2 sm:mb-0 px-3  py-2 text-sm font-medium rounded-md shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</a>
                   </div>
-                </div>
+                </div> -->
 
                 <div class="bg-emerald-100 rounded-2xl mt-4 2xl:mt-0 px-10 py-5 dark:bg-gray-900  border-emerald-200 dark:border-emerald-400 border">
                   <div class="p-2 pl-0">
