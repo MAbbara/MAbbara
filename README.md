@@ -7,7 +7,7 @@ Software Engineer & Full Stack Web Developer.
 I've been learning to code for 5 years. I love building web apps. I started with Python, but have really found a passion for web development and I enjoy backend development.
 
 * 🖥️  See my portfolio at [abbara.dev](http://abbara.dev)
-* ✉️  You can contact me at [mohammad@abbara.dev](mailto:mohammad@abbara.dev)
+* ✉️  You can contact me at [me@abbara.dev](mailto:me@abbara.dev)
 * 🚀  I'm currently working on [Todo Rocks](http://todo.rocks)
 * 🧠  I'm learning react
 * 🤝  I'm open to collaborating on interesting projects
