@@ -149,13 +149,13 @@
                     <p class="text-sm font-bold">Degree: <span class="font-normal">Software Engineering (JR)</span></p>
                   </div>
                   
-                  <div class="flex mt-3 sm:mt-0">
+                  <!-- <div class="flex mt-3 sm:mt-0">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 fill-emerald-400" viewBox="0 0 20 20" fill="currentColor">
                       <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
                     </svg>
                     &nbsp;
                     <p class="text-sm font-bold">Website: <span class="font-normal">abbara.dev</span></p>
-                  </div>
+                  </div> -->
       
                   <div class="flex mt-3 sm:mt-0">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 fill-emerald-400" viewBox="0 0 20 20" fill="currentColor">
@@ -251,10 +251,11 @@
                     <h1 class="text-black dark:text-gray-50 font-medium text-xl">Todo List</h1>
                     <p class="text-gray-500 dark:text-gray-400 text-sm">A basic todo list website.</p>
                   </div>
-                  <div class="flex">
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> JS </span>
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Tailwindcss </span>
+                  <div class="flex flex-wrap">
+                    <span class="mt-1 items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
+                    <span class="mt-1 items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> MySQL </span>
+                    <span class="mt-1 items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> JS </span>
+                    <span class="mt-1 items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Tailwindcss </span>
                   </div>
                   <div class="block lg:flex mt-3">
                     <a href="https://todo.rocks" target="_blank" class="items-center inline-flex text-center px-3 py-2 mr-4 text-sm font-medium rounded-md shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</a>
@@ -345,11 +346,11 @@
                     <svg class="flex-shrink-0 h-6 w-6 text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                       <path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                     </svg>
-                    <span class="ml-3 text-gray-500 dark:text-gray-300"> me@abbara.dev </span>
+                    <a href="mailto:me@abbara.dev" class="ml-3 text-gray-500 dark:text-gray-300"> me@abbara.dev </a>
                   </div>
                   <div class="flex mt-3">
                     <svg class="flex-shrink-0 h-6 w-6 text-gray-400" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 7C9.23858 7 7 9.23858 7 12C7 14.7614 9.23858 17 12 17C14.7614 17 17 14.7614 17 12C17 9.23858 14.7614 7 12 7ZM9 12C9 13.6569 10.3431 15 12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12Z" fill="currentColor"/><path d="M18 5C17.4477 5 17 5.44772 17 6C17 6.55228 17.4477 7 18 7C18.5523 7 19 6.55228 19 6C19 5.44772 18.5523 5 18 5Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M5 1C2.79086 1 1 2.79086 1 5V19C1 21.2091 2.79086 23 5 23H19C21.2091 23 23 21.2091 23 19V5C23 2.79086 21.2091 1 19 1H5ZM19 3H5C3.89543 3 3 3.89543 3 5V19C3 20.1046 3.89543 21 5 21H19C20.1046 21 21 20.1046 21 19V5C21 3.89543 20.1046 3 19 3Z" fill="currentColor"/></svg>
-                    <p class="ml-3 text-gray-500 dark:text-gray-300"> @ma_abbara </p>
+                    <a href="https://instagram.com/ma_abbara" target="_blank" class="ml-3 text-gray-500 dark:text-gray-300"> @ma_abbara </a>
                   </div>
                 </div>
 
@@ -364,27 +365,27 @@
                     <div class="">
                       <label for="first-name" class="block text-sm font-medium text-gray-800 dark:text-gray-50"><span class="text-red-600 font-bold">*</span> Name</label>
                       <div class="mt-1">
-                        <input required type="text" placeholder="Name" name="first-name" id="name" autocomplete="given-name" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900">
+                        <input required type="text" placeholder="Name" name="first-name" id="name" autocomplete="given-name" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900 dark:bg-gray-300">
                       </div>
                     </div>
 
                     <div class="mt-3">
                       <label for="email" class="block text-sm font-medium text-gray-800 dark:text-gray-50"><span class="text-red-600 font-bold">*</span> Email</label>
                       <div class="mt-1">
-                        <input required id="email" placeholder="email" name="email" type="email" autocomplete="email" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900">
+                        <input required id="email" placeholder="email" name="email" type="email" autocomplete="email" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900 dark:bg-gray-300">
                       </div>
                     </div>
                     <div class="mt-3">
                       <label for="email" class="block text-sm font-medium text-gray-800 dark:text-gray-50"><span class="text-red-600 font-bold">*</span> Subject</label>
                       <div class="mt-1">
-                        <input required id="subject" placeholder="Subject" name="subject" type="text" autocomplete="off" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900">
+                        <input required id="subject" placeholder="Subject" name="subject" type="text" autocomplete="off" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900 dark:bg-gray-300">
                       </div>
                     </div>
                     
                     <div class="mt-3">
                       <label for="message" class="block text-sm font-medium text-gray-800 dark:text-gray-50"><span class="text-red-600 font-bold">*</span> Message</label>
                       <div class="mt-1">
-                        <textarea required id="message" placeholder="message" name="message" rows="4" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border border-gray-300 rounded-md dark:text-gray-900"></textarea>
+                        <textarea required id="message" placeholder="message" name="message" rows="4" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border border-gray-300 rounded-md dark:text-gray-900 dark:bg-gray-300"></textarea>
                       </div>
                     </div>
 
@@ -394,7 +395,7 @@
                     
                       <label for="captcha" class="block text-sm font-medium text-gray-800 dark:text-gray-50">Captcha</label>
                       <div class="mt-1">
-                        <input id="captcha" required placeholder="captcha" type="text" autocomplete="off" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900">
+                        <input id="captcha" required placeholder="captcha" type="text" autocomplete="off" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900 dark:bg-gray-300">
                       </div>
                       <?php
                         $data = genCaptcha();
