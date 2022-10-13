@@ -24,6 +24,7 @@ I've been learning to code for 5 years. I love building web apps. I started with
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 
@@ -38,3 +39,7 @@ I've been learning to code for 5 years. I love building web apps. I started with
 <a href="http://www.github.com/mabbara"><img src="https://github-readme-stats.vercel.app/api?username=mabbara&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mabbara's GitHub stats" /></a>
 
 <a href="https://github.com/mabbara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabbara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
