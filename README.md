@@ -69,14 +69,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      2 mins              ██████████████████░░░░░░░   72.31% 
-JSON                     0 secs              ███████░░░░░░░░░░░░░░░░░░   27.69%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -90,5 +89,5 @@ JavaScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 04/11/2022 18:44:58 UTC
+ Last Updated on 05/11/2022 18:43:06 UTC
 <!--END_SECTION:waka-->
