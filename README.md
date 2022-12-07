@@ -69,13 +69,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -90,5 +90,5 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 06/12/2022 18:38:47 UTC
+ Last Updated on 07/12/2022 18:39:22 UTC
 <!--END_SECTION:waka-->
