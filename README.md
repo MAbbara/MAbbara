@@ -67,14 +67,13 @@ Sunday                   28 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      0 secs              █████████████████████░░░░   84.35 % 
-Other                    0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in CSS** 
@@ -90,5 +89,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 14/06/2023 18:32:53 UTC
+ Last Updated on 15/06/2023 18:32:58 UTC
 <!--END_SECTION:waka-->
