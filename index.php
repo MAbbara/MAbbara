@@ -273,9 +273,9 @@
                     <h1 class="text-black dark:text-gray-50 font-medium text-xl">KSA Fuel Price API</h1>
                     <p class="text-gray-500 dark:text-gray-400 text-sm">An API created to get fuel price of all types in KSA.</p>
                   </div>
-                  <div class="flex">
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> API </span>
+                  <div class="flex flex-wrap">
+                    <span class="mt-1 inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
+                    <span class="mt-1 inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> API </span>
                   </div>
                   <div class="block lg:flex mt-3">
                     <a href="https://fuel.abbara.dev/" target="_blank" class="items-center inline-flex text-center px-3 py-2 mr-4 text-sm font-medium rounded-md shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</a>
@@ -294,12 +294,12 @@
                     <h1 class="text-black dark:text-gray-50 font-medium text-xl">Alfaisal GIC Website</h1>
                     <p class="text-gray-500 dark:text-gray-400 text-sm">First-place winning submission in the Alfaisal Game Innovation Center website competition.</p>
                   </div>
-                  <div class="flex">
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> MySQL </span>
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> JS </span>
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Tailwindcss </span>
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Bootstrap5 </span>
+                  <div class="flex flex-wrap">
+                    <span class="mt-1 inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
+                    <span class="mt-1 inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> MySQL </span>
+                    <span class="mt-1 inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> JS </span>
+                    <span class="mt-1 inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Tailwindcss </span>
+                    <span class="mt-1 inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Bootstrap5 </span>
                   </div>
                   <div class="block lg:flex mt-3">
                     <a href="https://webproject.abbara.dev/" target="_blank" class="items-center inline-flex text-center px-3 py-2 mr-4 text-sm font-medium rounded-md shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</a>
