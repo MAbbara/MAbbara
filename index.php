@@ -63,7 +63,7 @@
               <a href="#about" class="nav-item inline-flex items-center px-1 pt-1"> About </a>
               <a href="#resume" class="nav-item inline-flex items-center px-1 pt-1"> Resume </a>
               <a href="#work" class="nav-item inline-flex items-center px-1 pt-1"> Work </a>
-              <!-- <a href="#testimonials" class="nav-item inline-flex items-center px-1 pt-1"> Testimonials </a> -->
+              <!-- <a href="#certifications" class="nav-item inline-flex items-center px-1 pt-1"> Certifications </a> -->
               <a href="#contact" class="nav-item inline-flex items-center px-1 pt-1"> contact </a>
             </div>
             <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
@@ -85,7 +85,7 @@
             <a href="#about" class="nav-item pl-3 pr-4 py-2 block">About</a>
             <a href="#resume" class="nav-item pl-3 pr-4 py-2 block">Resume</a>
             <a href="#work" class="nav-item pl-3 pr-4 py-2 block">Work</a>
-            <!-- <a href="#testimonials" class="nav-item pl-3 pr-4 py-2 block">Testimonials</a> -->
+            <!-- <a href="#certifications" class="nav-item pl-3 pr-4 py-2 block">Certifications</a> -->
             <a href="#contact" class="nav-item pl-3 pr-4 py-2 block">Contact</a>
           </div>
         </div>
@@ -122,7 +122,7 @@
           <div class="container px-10 sm:px-32 mx-auto p-24 items-center dark:text-gray-50 w-11/12 md:w-9/12 bg-emerald-50 dark:bg-gray-800 rounded-6xl ">
             <div class="sm:w-8/12 mx-auto">
               <div class="flex justify-center">
-                  <h3 class="text-2xl font-bold border-emerald-400 border-b-4">About</h3>
+                  <h3 class="text-2xl font-bold border-emerald-400 border-b-4">About Me</h3>
               </div>
               <!-- <div class="block mt-6">
                 <p class="text-sm">Some information about me</p>
@@ -146,7 +146,7 @@
                       <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
                     </svg>
                     &nbsp;
-                    <p class="text-sm font-bold">Degree: <span class="font-normal">Software Engineering (JR)</span></p>
+                    <p class="text-sm font-bold">Degree: <span class="font-normal">Software Engineering (Sr)</span></p>
                   </div>
                   
                   <!-- <div class="flex mt-3 sm:mt-0">
@@ -214,10 +214,8 @@
                         </div>
                         <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2018 - Present</time>
                         <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Freelancing In Web Development & Automation</h3>
-                        <!-- <p class="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components
-                          and interactive elements built on top of Tailwind CSS.</p> -->
+
                         <ul class="list-disc ml-4 mt-3">
-                          <li class="mb-2">Developed 3+ E-Commerce Web Apps</li>
                           <li class="mb-2">Developed numerous Web Apps and Automation programs </li>
                           <li>Managed up to 2 projects or tasks at a given time while under pressure</li>
                         </ul>
@@ -256,6 +254,7 @@
                     <span class="mt-1 items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> MySQL </span>
                     <span class="mt-1 items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> JS </span>
                     <span class="mt-1 items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Tailwindcss </span>
+                    <span class="mt-1 items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Twig </span>
                   </div>
                   <div class="block lg:flex mt-3">
                     <a href="https://todo.rocks" target="_blank" class="items-center inline-flex text-center px-3 py-2 mr-4 text-sm font-medium rounded-md shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</a>
@@ -269,24 +268,9 @@
                   </div>
                 </div>
 
-                <!-- <div class=" bg-emerald-100 rounded-2xl mt-3 2xl:mt-0 px-10 py-5 dark:bg-gray-900  border-emerald-200 dark:border-emerald-400 border">
-                  <div class="p-2 pl-0">
-                    <h1 class="text-black dark:text-gray-50 font-medium text-xl">Sultans</h1>
-                    <p class="text-gray-500 dark:text-gray-400 text-sm">This project was created to help game users of Sultans by giving them tips and help.</p>
-                  </div>
-                  <div class="flex">
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> JS </span>
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Tailwindcss </span>
-                  </div>
-                  <div class="block sm:flex mt-3">
-                    <a href="https://sultans.ga" target="_blank" class="items-center inline-flex w-48 text-center sm:w-fit mb-2 sm:mb-0 px-3  py-2 text-sm font-medium rounded-md shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</a>
-                  </div>
-                </div> -->
-
                 <div class="bg-emerald-100 rounded-2xl mt-4 2xl:mt-0 px-10 py-5 dark:bg-gray-900  border-emerald-200 dark:border-emerald-400 border">
                   <div class="p-2 pl-0">
-                    <h1 class="text-black dark:text-gray-50 font-medium text-xl">KSA Gas Price API</h1>
+                    <h1 class="text-black dark:text-gray-50 font-medium text-xl">KSA Fuel Price API</h1>
                     <p class="text-gray-500 dark:text-gray-400 text-sm">An API created to get fuel price of all types in KSA.</p>
                   </div>
                   <div class="flex">
@@ -294,9 +278,9 @@
                     <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> API </span>
                   </div>
                   <div class="block lg:flex mt-3">
-                    <a href="https://abbara.dev/gasPriceApi/" target="_blank" class="items-center inline-flex text-center px-3 py-2 mr-4 text-sm font-medium rounded-md shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</a>
+                    <a href="https://fuel.abbara.dev/" target="_blank" class="items-center inline-flex text-center px-3 py-2 mr-4 text-sm font-medium rounded-md shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</a>
                     
-                    <a href="https://github.com/MAbbara/ksa-gas-price-api" target="_blank" class="mt-4 lg:mt-0 items-center inline-flex px-3 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">
+                    <a href="https://github.com/MAbbara/ksa-fuel-price-api" target="_blank" class="mt-4 lg:mt-0 items-center inline-flex px-3 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">
                       <svg class="h-4 w-4 mr-1 -ml-0.5" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                         <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
                       </svg>
@@ -305,27 +289,23 @@
                   </div>
                 </div>
 
-                <!-- <div class="bg-emerald-100 rounded-2xl mt-3 sm:mt-0 px-10 py-5 dark:bg-gray-900  border-emerald-200 dark:border-emerald-400 border">
+                <div class="bg-emerald-100 rounded-2xl mt-4 2xl:mt-0 px-10 py-5 dark:bg-gray-900  border-emerald-200 dark:border-emerald-400 border">
                   <div class="p-2 pl-0">
-                    <h1 class="text-black dark:text-gray-50 font-medium text-xl">Password Tools</h1>
-                    <p class="text-gray-500 dark:text-gray-400 text-sm">The idea for this project is to create a password, generation and rating utility using PHP & JS.</p>
+                    <h1 class="text-black dark:text-gray-50 font-medium text-xl">Alfaisal GIC Website</h1>
+                    <p class="text-gray-500 dark:text-gray-400 text-sm">First-place winning submission in the Alfaisal Game Innovation Center website competition.</p>
                   </div>
                   <div class="flex">
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-emerald-200 text-gray-900 dark:bg-emerald-500 dark:text-gray-50"> PHP </span>
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-emerald-200 text-gray-900 dark:bg-emerald-500 dark:text-gray-50"> JS </span>
-                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-emerald-200 text-gray-900 dark:bg-emerald-500 dark:text-gray-50"> Tailwindcss </span>
+                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
+                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> MySQL </span>
+                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> JS </span>
+                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Tailwindcss </span>
+                    <span class="inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Bootstrap5 </span>
                   </div>
-                  <div class="block sm:flex mt-3">
-                    <button disabled type="button" class="items-center inline-flex w-48 text-center sm:w-fit mb-2 sm:mb-0 px-3 mr-4 py-2 text-sm font-medium rounded shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</button>
-
-                    <button disabled type="button" class="items-center inline-flex w-48 px-3 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">
-                      <svg class="h-4 w-4 mr-1 -ml-0.5" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
-                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
-                      </svg>
-                      &nbsp; View On Github
-                    </button>
+                  <div class="block lg:flex mt-3">
+                    <a href="https://webproject.abbara.dev/" target="_blank" class="items-center inline-flex text-center px-3 py-2 mr-4 text-sm font-medium rounded-md shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</a>
+                    
                   </div>
-                </div> -->
+                </div>
               </div>
             </div>
           </div>
@@ -348,10 +328,10 @@
                     </svg>
                     <a href="mailto:me@abbara.dev" class="ml-3 text-gray-500 dark:text-gray-300"> me@abbara.dev </a>
                   </div>
-                  <div class="flex mt-3">
+                  <!-- <div class="flex mt-3">
                     <svg class="flex-shrink-0 h-6 w-6 text-gray-400" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 7C9.23858 7 7 9.23858 7 12C7 14.7614 9.23858 17 12 17C14.7614 17 17 14.7614 17 12C17 9.23858 14.7614 7 12 7ZM9 12C9 13.6569 10.3431 15 12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12Z" fill="currentColor"/><path d="M18 5C17.4477 5 17 5.44772 17 6C17 6.55228 17.4477 7 18 7C18.5523 7 19 6.55228 19 6C19 5.44772 18.5523 5 18 5Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M5 1C2.79086 1 1 2.79086 1 5V19C1 21.2091 2.79086 23 5 23H19C21.2091 23 23 21.2091 23 19V5C23 2.79086 21.2091 1 19 1H5ZM19 3H5C3.89543 3 3 3.89543 3 5V19C3 20.1046 3.89543 21 5 21H19C20.1046 21 21 20.1046 21 19V5C21 3.89543 20.1046 3 19 3Z" fill="currentColor"/></svg>
                     <a href="https://instagram.com/ma_abbara" target="_blank" class="ml-3 text-gray-500 dark:text-gray-300"> @ma_abbara </a>
-                  </div>
+                  </div> -->
                 </div>
 
                 <div class="flex relative py-5 items-center lg:w-3/6 mx-auto">
@@ -434,13 +414,6 @@
               <path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
             </svg>
           </a>
-          <a href="https://instagram.com/ma_abbara" target="_blank" class="text-gray-400 hover:text-gray-500">
-            <span class="sr-only">Instagram</span>
-            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-              <path fill-rule="evenodd" d="M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z" clip-rule="evenodd" />
-            </svg>
-          </a>
-  
           <a href="https://github.com/Mabbara" target="_blank" class="text-gray-400 hover:text-gray-500">
             <span class="sr-only">GitHub</span>
             <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
@@ -455,11 +428,6 @@
     </footer>
   </div>
 
-  <!-- <div class="fixed bottom-4 right-4 z-[100]">
-    <button type="button" class="themeToggle inline-flex items-center rounded-full border border-transparent bg-emerald-500 p-3 shadow-lg focus:outline-none dark:bg-emerald-400 dark:text-slate-900">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="fill-gray-800 h-6 w-6 lg:h-8 lg:w-8"><path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path></svg>
-    </button>
-  </div> -->
   <div class="fixed bottom-4 right-4 z-[100] sm:hidden">
     <button type="button" class="goTop items-center rounded-full border border-transparent bg-emerald-400 p-3 shadow-lg focus:outline-none dark:text-slate-900">
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="" class="stroke-gray-900 dark:stroke-white w-6 h-6">
