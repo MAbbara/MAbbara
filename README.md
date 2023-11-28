@@ -67,13 +67,14 @@ Sunday                   2 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+INI                      7 mins              ██████████████████████░░░   86.03 % 
+Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in CSS** 
@@ -89,5 +90,5 @@ PHP                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 27/11/2023 18:33:39 UTC
+ Last Updated on 28/11/2023 18:34:38 UTC
 <!--END_SECTION:waka-->
