@@ -12,7 +12,7 @@
   <link rel="icon" type="image/x-icon" href="./assets/img/profile-circle.png">
   <title>Mohammad Abbara</title>
 
-  <meta name="keywords" content="portfolio, software engineer, freelancer, developer, programmer, php, sql, js"/>
+  <meta name="keywords" content="portfolio, software engineer, freelancer, developer, programmer, php, sql, js, html, css"/>
   <meta name="description" content="I love building web apps. I'm a full stack web developer with a passion for back end development and problem solving. I'm currently working on a few projects including this portfolio. I'm a huge fan of PHP and MySQL."/>
   <meta name="subject" content="Portfolio">
   <meta name="language" content="EN">
@@ -22,7 +22,6 @@
   <meta name="identifier-URL" content="http://abbara.dev">
   <meta name="distribution" content="Global">
 
-  <!-- OpenGraoh Tags -->
   <meta name="og:title" content="Mohammad Abbara"/>
   <meta name="og:url" content="https://abbara.dev"/>
   <meta name="og:type" content="website"/>
@@ -58,7 +57,6 @@
             </div>
             
             <div class="hidden sm:ml-6 sm:flex sm:space-x-8 font-sen text-gray-800 text-lg dark:text-gray-50">
-              <!-- Current: "border-indigo-500 text-gray-900", Default: "border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700" -->
               <a href="./" class="nav-item inline-flex items-center px-1 pt-1"> Home </a>
               <a href="#about" class="nav-item inline-flex items-center px-1 pt-1"> About </a>
               <a href="#resume" class="nav-item inline-flex items-center px-1 pt-1"> Resume </a>
@@ -124,13 +122,10 @@
               <div class="flex justify-center">
                   <h3 class="text-2xl font-bold border-emerald-400 border-b-4">About Me</h3>
               </div>
-              <!-- <div class="block mt-6">
-                <p class="text-sm">Some information about me</p>
-              </div> -->
-
+              
               <div class="block mt-6">
                 <h3 class="text-2xl text-slate-800 dark:text-gray-50">Software Engineer & Web Developer</h3>
-                <p class="text-sm mt-2">I love building web apps. I'm a full stack web developer with a passion for back end development and problem solving. I'm currently working on a few projects including this portfolio. I'm a huge fan of PHP and MySQL.</p>
+                <p class="text-sm mt-2">I love building web apps. I'm a full stack web developer with a passion for backend development and problem solving. I'm currently working on a few projects including this portfolio. I'm a huge fan of PHP and MySQL.</p>
       
                 <div class="block mt-6 lg:grid lg:grid-cols-2 lg:gap-4 lg:justify-between max-w-3xl">
                   <div class="flex mt-3 sm:mt-0">
@@ -148,14 +143,6 @@
                     &nbsp;
                     <p class="text-sm font-bold">Degree: <span class="font-normal">Software Engineering (Sr)</span></p>
                   </div>
-                  
-                  <!-- <div class="flex mt-3 sm:mt-0">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 fill-emerald-400" viewBox="0 0 20 20" fill="currentColor">
-                      <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
-                    </svg>
-                    &nbsp;
-                    <p class="text-sm font-bold">Website: <span class="font-normal">abbara.dev</span></p>
-                  </div> -->
       
                   <div class="flex mt-3 sm:mt-0">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 fill-emerald-400" viewBox="0 0 20 20" fill="currentColor">
@@ -185,8 +172,6 @@
   
                 <div class="mt-4" id="education">
                   <h3 class="text-2xl font-semibold">Education</h3>
-                  <!-- component -->
-                  <!-- This is an example component -->
                   <div class="max-w-xl mt-4">
                     <ol class="relative border-l border-gray-300 dark:border-gray-700">
                       <li class="mb-10 ml-4">
@@ -198,7 +183,6 @@
                         <p class="mb-4 mt-2 text-sm font-normal text-gray-500 dark:text-gray-400">
                           Alfaisal University, Riyadh, Saudi Arabia
                         </p>
-                        <!-- <p class="text-base font-normal text-gray-500 dark:text-gray-400">Maybe i can write some details here?</p> -->
                       </li>
                     </ol>
                   </div>
@@ -220,8 +204,23 @@
                           <li>Managed up to 2 projects or tasks at a given time while under pressure</li>
                         </ul>
                       </li>
+
+                      <li class="ml-4 mt-3">
+                        <div
+                          class="absolute w-3 h-3 bg-gray-200 rounded-full -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700">
+                        </div>
+                        <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Jan 2023 - June 2023</time>
+                        <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Alfaisal University TA</h3>
+
+                        <ul class="list-disc ml-4 mt-3">
+                          <li class="mb-2">Responsible for grading assignments & exams, sharing personal knowledge & providing valuable feedback to students.</li>
+                          <li class="mb-2">Balanced TA responsibilities with personal academic commitments throughout the semester, showcasing effective time management.</li>
+                          <li>Developed key skills in organization, communication, and leadership, gaining a deep appreciation for the challenges and rewards of a teaching role.</li>
+                        </ul>
+                      </li>
                     </ol>
                   </div>
+
                 </div>
   
               </div>
@@ -247,7 +246,9 @@
                 <div class="bg-emerald-100 rounded-2xl px-10 py-5 dark:bg-gray-900  border-emerald-200 dark:border-emerald-400 border">
                   <div class="p-2 pl-0">
                     <h1 class="text-black dark:text-gray-50 font-medium text-xl">Todo List</h1>
-                    <p class="text-gray-500 dark:text-gray-400 text-sm">A basic todo list website.</p>
+                    <p class="text-gray-500 dark:text-gray-400 text-sm">A lightweight to-do list web-app that stands out for its encrypted lists and performance with a
+                      strong emphasis on user privacy and anonymity. The app is designed to function without user
+                      accounts, which ensures confidentiality by not collecting personal data.</p>
                   </div>
                   <div class="flex flex-wrap">
                     <span class="mt-1 items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
@@ -256,10 +257,10 @@
                     <span class="mt-1 items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Tailwindcss </span>
                     <span class="mt-1 items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> Twig </span>
                   </div>
-                  <div class="block lg:flex mt-3">
+                  <div class="block sm:flex mt-3">
                     <a href="https://todo.rocks" target="_blank" class="items-center inline-flex text-center px-3 py-2 mr-4 text-sm font-medium rounded-md shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</a>
                     
-                    <a href="https://github.com/MAbbara/todo.rocks" target="_blank" class="mt-4 lg:mt-0 items-center inline-flex px-3 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">
+                    <a href="https://github.com/MAbbara/todo.rocks" target="_blank" class="mt-5 lg:mt-0 items-center inline-flex px-3 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">
                       <svg class="h-4 w-4 mr-1 -ml-0.5" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                         <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
                       </svg>
@@ -271,16 +272,19 @@
                 <div class="bg-emerald-100 rounded-2xl mt-4 2xl:mt-0 px-10 py-5 dark:bg-gray-900  border-emerald-200 dark:border-emerald-400 border">
                   <div class="p-2 pl-0">
                     <h1 class="text-black dark:text-gray-50 font-medium text-xl">KSA Fuel Price API</h1>
-                    <p class="text-gray-500 dark:text-gray-400 text-sm">An API created to get fuel price of all types in KSA.</p>
+                    <p class="text-gray-500 dark:text-gray-400 text-sm">Developed an api that fetches real-time national fuel prices for saudi arabia. This simple api is
+                      unique, as no other publicly available api serves this purpose. Its is designed to deliver json
+                      responses, optimized for speed and efficiency. This makes it lightweight and ideal for applications
+                      where prompt and accurate fuel price information is essential.</p>
                   </div>
                   <div class="flex flex-wrap">
                     <span class="mt-1 inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
                     <span class="mt-1 inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> API </span>
                   </div>
-                  <div class="block lg:flex mt-3">
+                  <div class="block sm:flex mt-3">
                     <a href="https://fuel.abbara.dev/" target="_blank" class="items-center inline-flex text-center px-3 py-2 mr-4 text-sm font-medium rounded-md shadow-sm text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">Check Project</a>
                     
-                    <a href="https://github.com/MAbbara/ksa-fuel-price-api" target="_blank" class="mt-4 lg:mt-0 items-center inline-flex px-3 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">
+                    <a href="https://github.com/MAbbara/ksa-fuel-price-api" target="_blank" class="mt-5 lg:mt-0 items-center inline-flex px-3 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-gray-900 bg-emerald-200 dark:bg-emerald-500 dark:text-gray-50">
                       <svg class="h-4 w-4 mr-1 -ml-0.5" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
                         <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
                       </svg>
@@ -292,7 +296,10 @@
                 <div class="bg-emerald-100 rounded-2xl mt-4 2xl:mt-0 px-10 py-5 dark:bg-gray-900  border-emerald-200 dark:border-emerald-400 border">
                   <div class="p-2 pl-0">
                     <h1 class="text-black dark:text-gray-50 font-medium text-xl">Alfaisal GIC Website</h1>
-                    <p class="text-gray-500 dark:text-gray-400 text-sm">First-place winning submission in the Alfaisal Game Innovation Center website competition.</p>
+                    <p class="text-gray-500 dark:text-gray-400 text-sm">As part of alfaisal university’s game development center’s website competition, collaborated with
+                      the team to create a seamlessly designed website. The website enables participants to view
+                      information regarding the center. A dashboard was developed, enabling the center’s director to
+                      manage applications, memberships, and events.</p>
                   </div>
                   <div class="flex flex-wrap">
                     <span class="mt-1 inline-flex items-center mx-0.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-300 text-gray-900 dark:bg-gray-700 dark:text-gray-50"> PHP </span>
@@ -328,10 +335,7 @@
                     </svg>
                     <a href="mailto:me@abbara.dev" class="ml-3 text-gray-500 dark:text-gray-300"> me@abbara.dev </a>
                   </div>
-                  <!-- <div class="flex mt-3">
-                    <svg class="flex-shrink-0 h-6 w-6 text-gray-400" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 7C9.23858 7 7 9.23858 7 12C7 14.7614 9.23858 17 12 17C14.7614 17 17 14.7614 17 12C17 9.23858 14.7614 7 12 7ZM9 12C9 13.6569 10.3431 15 12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12Z" fill="currentColor"/><path d="M18 5C17.4477 5 17 5.44772 17 6C17 6.55228 17.4477 7 18 7C18.5523 7 19 6.55228 19 6C19 5.44772 18.5523 5 18 5Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M5 1C2.79086 1 1 2.79086 1 5V19C1 21.2091 2.79086 23 5 23H19C21.2091 23 23 21.2091 23 19V5C23 2.79086 21.2091 1 19 1H5ZM19 3H5C3.89543 3 3 3.89543 3 5V19C3 20.1046 3.89543 21 5 21H19C20.1046 21 21 20.1046 21 19V5C21 3.89543 20.1046 3 19 3Z" fill="currentColor"/></svg>
-                    <a href="https://instagram.com/ma_abbara" target="_blank" class="ml-3 text-gray-500 dark:text-gray-300"> @ma_abbara </a>
-                  </div> -->
+
                 </div>
 
                 <div class="flex relative py-5 items-center lg:w-3/6 mx-auto">
@@ -345,37 +349,36 @@
                     <div class="">
                       <label for="first-name" class="block text-sm font-medium text-gray-800 dark:text-gray-50"><span class="text-red-600 font-bold">*</span> Name</label>
                       <div class="mt-1">
-                        <input required type="text" placeholder="Name" name="first-name" id="name" autocomplete="given-name" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900 dark:bg-gray-300">
+                        <input required type="text" placeholder="Name" name="first-name" id="name" autocomplete="given-name" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 dark:border-gray-700 rounded-md dark:text-gray-300 dark:bg-gray-700">
                       </div>
                     </div>
 
                     <div class="mt-3">
                       <label for="email" class="block text-sm font-medium text-gray-800 dark:text-gray-50"><span class="text-red-600 font-bold">*</span> Email</label>
                       <div class="mt-1">
-                        <input required id="email" placeholder="email" name="email" type="email" autocomplete="email" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900 dark:bg-gray-300">
+                        <input required id="email" placeholder="Email" name="email" type="email" autocomplete="email" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 dark:border-gray-700 rounded-md dark:text-gray-300 dark:bg-gray-700">
                       </div>
                     </div>
                     <div class="mt-3">
                       <label for="email" class="block text-sm font-medium text-gray-800 dark:text-gray-50"><span class="text-red-600 font-bold">*</span> Subject</label>
                       <div class="mt-1">
-                        <input required id="subject" placeholder="Subject" name="subject" type="text" autocomplete="off" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900 dark:bg-gray-300">
+                        <input required id="subject" placeholder="Subject" name="subject" type="text" autocomplete="off" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 dark:border-gray-700 rounded-md dark:text-gray-300 dark:bg-gray-700">
                       </div>
                     </div>
                     
                     <div class="mt-3">
                       <label for="message" class="block text-sm font-medium text-gray-800 dark:text-gray-50"><span class="text-red-600 font-bold">*</span> Message</label>
                       <div class="mt-1">
-                        <textarea required id="message" placeholder="message" name="message" rows="4" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border border-gray-300 rounded-md dark:text-gray-900 dark:bg-gray-300"></textarea>
+                        <textarea required id="message" placeholder="Message" name="message" rows="4" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 dark:border-gray-700 rounded-md dark:text-gray-300 dark:bg-gray-700"></textarea>
                       </div>
                     </div>
-
-                    
+     
 
                     <div class="mt-3">
                     
                       <label for="captcha" class="block text-sm font-medium text-gray-800 dark:text-gray-50">Captcha</label>
                       <div class="mt-1">
-                        <input id="captcha" required placeholder="captcha" type="text" autocomplete="off" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 rounded-md dark:text-gray-900 dark:bg-gray-300">
+                        <input id="captcha" required placeholder="Captcha" type="text" autocomplete="off" class="py-2 px-4 block w-full shadow-sm focus:ring-emerald-500 focus:border-emerald-500 border-gray-300 dark:border-gray-700 rounded-md dark:text-gray-300 dark:bg-gray-700">
                       </div>
                       <?php
                         $data = genCaptcha();
@@ -404,7 +407,6 @@
       </section>
     </main>
 
-      <!-- This example requires Tailwind CSS v2.0+ -->
     <footer class="bg-white dark:bg-gray-900 mt-8">
       <div class="max-w-7xl mx-auto sm:py-6 py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
         <div class="flex justify-center space-x-6 md:order-2">
