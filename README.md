@@ -67,13 +67,13 @@ Sunday                   13 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 43 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,5 +89,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2024 18:40:02 UTC
+ Last Updated on 31/08/2024 18:37:18 UTC
 <!--END_SECTION:waka-->
