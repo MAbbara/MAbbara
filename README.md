@@ -67,14 +67,13 @@ Sunday                   13 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 40 mins       ████████████████████░░░░░   80.89 % 
-Python                   37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,5 +89,5 @@ Twig                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2025 18:40:56 UTC
+ Last Updated on 27/04/2025 18:41:33 UTC
 <!--END_SECTION:waka-->
