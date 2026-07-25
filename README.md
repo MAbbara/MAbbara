@@ -42,18 +42,58 @@ I've been learning to code for 5 years. I love building web apps. I started with
 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+🌆 Daytime                262 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+🌃 Evening                293 commits         ████████░░░░░░░░░░░░░░░░░   32.85 % 
+🌙 Night                  248 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Tuesday                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Wednesday                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Thursday                 172 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Friday                   100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Saturday                 157 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Sunday                   147 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   79 hrs 12 mins      █████████████████░░░░░░░░   68.60 % 
+Markdown                 31 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Other                    2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JSON                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+INI                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+
+🔥 Editors: 
+VS Code                  115 hrs 1 min       █████████████████████████   99.62 % 
+Codex CLI                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Unknown Wakatime         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+💻 Operating System: 
+Linux                    115 hrs 28 mins     █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Twig                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   9 repos             ███████████░░░░░░░░░░░░░░   45.00 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Twig                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 24/07/2026 19:52:53 UTC
+ Last Updated on 25/07/2026 19:40:14 UTC
 <!--END_SECTION:waka-->
