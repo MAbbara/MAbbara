@@ -42,24 +42,26 @@ I've been learning to code for 5 years. I love building web apps. I started with
 
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-885%20hrs%2059%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-🌆 Daytime                262 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-🌃 Evening                293 commits         ████████░░░░░░░░░░░░░░░░░   32.85 % 
-🌙 Night                  248 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+🌞 Morning                89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+🌆 Daytime                263 commits         ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+🌃 Evening                293 commits         ████████░░░░░░░░░░░░░░░░░   32.81 % 
+🌙 Night                  248 commits         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Tuesday                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Wednesday                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Thursday                 172 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Friday                   100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Saturday                 157 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Sunday                   147 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Monday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Tuesday                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Wednesday                102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Thursday                 172 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Friday                   100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Saturday                 157 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Sunday                   147 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
 ```
 
 
@@ -67,19 +69,41 @@ Sunday                   147 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   63 hrs 40 mins      █████████████████░░░░░░░░   69.61 % 
-Markdown                 23 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-Other                    2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-JSON                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-INI                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python                   50 hrs 37 mins      ███████████████████░░░░░░   75.04 % 
+Markdown                 12 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Other                    2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+C                        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  91 hrs 4 mins       █████████████████████████   99.57 % 
-Codex CLI                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Unknown Wakatime         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  67 hrs 6 mins       █████████████████████████   99.44 % 
+Codex CLI                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Linux                    91 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    67 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 67 hrs 24 mins (99.91%)
+
+✍️ 113,091 lines written by AI, 614 lines written by hand (99.46% AI-written)
+
+🔤 123,081,598,279 Input Tokens, 142,415,873 Output Tokens
+
+💵 $89472.64 Estimated AI Cost This Week
+
+🧠 205 AI Sessions, 566 AI Prompts
+
+GPT                      118,012 lines       █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.46% of written lines came from AI
+📚 Verbose Prompter — average 13,219 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +119,5 @@ Twig                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:41:50 UTC
+ Last Updated on 27/07/2026 20:01:55 UTC
 <!--END_SECTION:waka-->
