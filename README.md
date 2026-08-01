@@ -44,6 +44,67 @@ I've been learning to code for 5 years. I love building web apps. I started with
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-902%20hrs%2014%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+🌆 Daytime                270 commits         ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+🌃 Evening                320 commits         ████████░░░░░░░░░░░░░░░░░   33.37 % 
+🌙 Night                  280 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Wednesday                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Thursday                 172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Friday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Saturday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Sunday                   149 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 37 hrs 46 mins      █████████████░░░░░░░░░░░░   52.01 % 
+Python                   28 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   38.74 % 
+Rust                     2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Bash                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+HTML                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+
+🔥 Editors: 
+VS Code                  72 hrs 38 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    72 hrs 38 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 72 hrs 38 mins (100.0%)
+
+✍️ 160,709 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 5,214,400,141 Input Tokens, 12,726,850 Output Tokens
+
+💵 $24222.98 Estimated AI Cost This Week
+
+🧠 495 AI Sessions, 1065 AI Prompts
+
+GPT                      162,453 lines       █████████████████████████   98.83 % 
+K                        1,921 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 15,908 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -57,5 +118,5 @@ Twig                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 20:00:01 UTC
+ Last Updated on 01/08/2026 19:40:41 UTC
 <!--END_SECTION:waka-->
