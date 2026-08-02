@@ -13,6 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_URL : ${{ secrets.WAKATIME_API_URL }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           PUSH_BRANCH_NAME: "main"
           SHOW_TIMEZONE: "False"
