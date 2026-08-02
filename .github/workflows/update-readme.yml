@@ -35,4 +35,5 @@ jobs:
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
           COMMIT_MESSAGE: "Updated README with Dev Metrics"
           SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
           DEBUG_LOGGING: "True"
