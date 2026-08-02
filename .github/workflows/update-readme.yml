@@ -33,3 +33,4 @@ jobs:
           UPDATED_DATE_FORMAT : "%d/%m/%Y %H:%M:%S"
           # COMMIT_BY_ME : "True" # CAUSES ERROR
           COMMIT_MESSAGE : "Updated README with Dev Metrics"
+          SHOW_AI_CODING : "False"
