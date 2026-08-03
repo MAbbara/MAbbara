@@ -13,7 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_API_URL: ${{ secrets.WAKATIME_API_URL }}
+          # WAKATIME_API_URL: ${{ secrets.WAKATIME_API_URL }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           PUSH_BRANCH_NAME: "main"
@@ -36,4 +36,4 @@ jobs:
           COMMIT_MESSAGE: "Updated README with Dev Metrics"
           SHOW_AI_CODING: "False"
           SHOW_AI_CODE_TIME: "False"
-          DEBUG_LOGGING: "True"
+          # DEBUG_LOGGING: "True"
