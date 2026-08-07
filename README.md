@@ -42,44 +42,6 @@ I've been learning to code for 5 years. I love building web apps. I started with
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-🌆 Daytime                288 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-🌃 Evening                364 commits         █████████░░░░░░░░░░░░░░░░   35.34 % 
-🌙 Night                  289 commits         ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Tuesday                  123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Wednesday                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Thursday                 172 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Friday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Saturday                 225 commits         █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Sunday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 16 hrs 18 mins      █████████████░░░░░░░░░░░░   51.91 % 
-Python                   14 hrs 13 mins      ███████████░░░░░░░░░░░░░░   45.26 % 
-HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-
-🔥 Editors: 
-VS Code                  31 hrs 25 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    31 hrs 25 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -93,5 +55,5 @@ Twig                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:02:33 UTC
+ Last Updated on 07/08/2026 00:20:59 UTC
 <!--END_SECTION:waka-->
